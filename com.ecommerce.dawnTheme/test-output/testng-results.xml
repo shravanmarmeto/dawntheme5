@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="35" passed="35" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T15:19:03 IST" name="Default suite" finished-at="2024-05-30T15:20:39 IST" duration-ms="96492">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T15:19:03 IST" name="Default test" finished-at="2024-05-30T15:20:39 IST" duration-ms="96492">
+      <class name="com.ecommerce.dawnTheme.homepageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:03 IST" name="beforeClass" finished-at="2024-05-30T15:19:05 IST" duration-ms="2545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:05 IST" name="beforeMethod" finished-at="2024-05-30T15:19:06 IST" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="homepageSuccess()[pri:1, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:06 IST" name="homepageSuccess" finished-at="2024-05-30T15:19:08 IST" duration-ms="1539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageSuccess -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:08 IST" name="beforeMethod" finished-at="2024-05-30T15:19:09 IST" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="homepageError()[pri:2, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:09 IST" name="homepageError" finished-at="2024-05-30T15:19:10 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageError -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:10 IST" name="beforeMethod" finished-at="2024-05-30T15:19:11 IST" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="announcementBar()[pri:3, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:11 IST" name="announcementBar" finished-at="2024-05-30T15:19:12 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- announcementBar -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:12 IST" name="beforeMethod" finished-at="2024-05-30T15:19:13 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="dawnLogo()[pri:4, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:13 IST" name="dawnLogo" finished-at="2024-05-30T15:19:14 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dawnLogo -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:14 IST" name="beforeMethod" finished-at="2024-05-30T15:19:15 IST" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bagsDropdown()[pri:5, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:15 IST" name="bagsDropdown" finished-at="2024-05-30T15:19:16 IST" duration-ms="986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bagsDropdown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:16 IST" name="beforeMethod" finished-at="2024-05-30T15:19:17 IST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bagsDropdownSelect()[pri:6, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:17 IST" name="bagsDropdownSelect" finished-at="2024-05-30T15:19:19 IST" duration-ms="1695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bagsDropdownSelect -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:19 IST" name="beforeMethod" finished-at="2024-05-30T15:19:20 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shoesDropdown()[pri:7, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:20 IST" name="shoesDropdown" finished-at="2024-05-30T15:19:21 IST" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoesDropdown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:21 IST" name="beforeMethod" finished-at="2024-05-30T15:19:22 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shoesDropdownSelect()[pri:8, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:22 IST" name="shoesDropdownSelect" finished-at="2024-05-30T15:19:23 IST" duration-ms="1718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoesDropdownSelect -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:23 IST" name="beforeMethod" finished-at="2024-05-30T15:19:24 IST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="lookBook()[pri:9, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:24 IST" name="lookBook" finished-at="2024-05-30T15:19:25 IST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookBook -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:25 IST" name="beforeMethod" finished-at="2024-05-30T15:19:26 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchIcon()[pri:10, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:26 IST" name="searchIcon" finished-at="2024-05-30T15:19:27 IST" duration-ms="984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIcon -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:27 IST" name="beforeMethod" finished-at="2024-05-30T15:19:28 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="profileIcon()[pri:11, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:28 IST" name="profileIcon" finished-at="2024-05-30T15:19:29 IST" duration-ms="946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileIcon -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:29 IST" name="beforeMethod" finished-at="2024-05-30T15:19:30 IST" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="cartIcon()[pri:12, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:30 IST" name="cartIcon" finished-at="2024-05-30T15:19:31 IST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartIcon -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:31 IST" name="beforeMethod" finished-at="2024-05-30T15:19:32 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shopNowButton()[pri:13, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:32 IST" name="shopNowButton" finished-at="2024-05-30T15:19:35 IST" duration-ms="2296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopNowButton -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:35 IST" name="beforeMethod" finished-at="2024-05-30T15:19:36 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="backInStock()[pri:14, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:36 IST" name="backInStock" finished-at="2024-05-30T15:19:37 IST" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backInStock -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:37 IST" name="beforeMethod" finished-at="2024-05-30T15:19:38 IST" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bagsLinkFooter()[pri:15, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:38 IST" name="bagsLinkFooter" finished-at="2024-05-30T15:19:39 IST" duration-ms="1305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bagsLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:39 IST" name="beforeMethod" finished-at="2024-05-30T15:19:40 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bagsPage()[pri:16, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:40 IST" name="bagsPage" finished-at="2024-05-30T15:19:42 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.bagsLinkFooter" duration-ms="1853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bagsPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:42 IST" name="beforeMethod" finished-at="2024-05-30T15:19:43 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shoesLinkFooter()[pri:17, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:43 IST" name="shoesLinkFooter" finished-at="2024-05-30T15:19:44 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoesLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:44 IST" name="beforeMethod" finished-at="2024-05-30T15:19:45 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shoesPage()[pri:18, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:45 IST" name="shoesPage" finished-at="2024-05-30T15:19:46 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.shoesLinkFooter" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoesPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:46 IST" name="beforeMethod" finished-at="2024-05-30T15:19:47 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="lookBookLinkFooter()[pri:19, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:47 IST" name="lookBookLinkFooter" finished-at="2024-05-30T15:19:49 IST" duration-ms="1968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookBookLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:49 IST" name="beforeMethod" finished-at="2024-05-30T15:19:50 IST" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="lookBookLinkPage()[pri:20, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:50 IST" name="lookBookLinkPage" finished-at="2024-05-30T15:19:52 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.lookBookLinkFooter" duration-ms="1865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookBookLinkPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:52 IST" name="beforeMethod" finished-at="2024-05-30T15:19:53 IST" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="aboutLinkFooter()[pri:21, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:53 IST" name="aboutLinkFooter" finished-at="2024-05-30T15:19:55 IST" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:55 IST" name="beforeMethod" finished-at="2024-05-30T15:19:56 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="aboutPage()[pri:22, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:56 IST" name="aboutPage" finished-at="2024-05-30T15:19:57 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.aboutLinkFooter" duration-ms="1786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:57 IST" name="beforeMethod" finished-at="2024-05-30T15:19:58 IST" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="contactUsLinkFooter()[pri:23, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:19:58 IST" name="contactUsLinkFooter" finished-at="2024-05-30T15:20:00 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:00 IST" name="beforeMethod" finished-at="2024-05-30T15:20:01 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="contactUsPage()[pri:24, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:01 IST" name="contactUsPage" finished-at="2024-05-30T15:20:02 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.contactUsLinkFooter" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:02 IST" name="beforeMethod" finished-at="2024-05-30T15:20:03 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shippingPolicyLinkFooter()[pri:25, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:03 IST" name="shippingPolicyLinkFooter" finished-at="2024-05-30T15:20:05 IST" duration-ms="1354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shippingPolicyLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:05 IST" name="beforeMethod" finished-at="2024-05-30T15:20:06 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shippingPage()[pri:26, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:06 IST" name="shippingPage" finished-at="2024-05-30T15:20:07 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.shippingPolicyLinkFooter" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shippingPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:07 IST" name="beforeMethod" finished-at="2024-05-30T15:20:08 IST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="blogLinkFooter()[pri:27, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:08 IST" name="blogLinkFooter" finished-at="2024-05-30T15:20:10 IST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blogLinkFooter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:10 IST" name="beforeMethod" finished-at="2024-05-30T15:20:11 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="newsPage()[pri:28, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:11 IST" name="newsPage" finished-at="2024-05-30T15:20:13 IST" depends-on-methods="com.ecommerce.dawnTheme.homepageTest.blogLinkFooter" duration-ms="1870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:13 IST" name="beforeMethod" finished-at="2024-05-30T15:20:14 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="newsletter()[pri:29, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:14 IST" name="newsletter" finished-at="2024-05-30T15:20:15 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsletter -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:15 IST" name="beforeMethod" finished-at="2024-05-30T15:20:16 IST" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="country()[pri:30, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:16 IST" name="country" finished-at="2024-05-30T15:20:20 IST" duration-ms="3993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:20 IST" name="beforeMethod" finished-at="2024-05-30T15:20:21 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="facebookLink()[pri:31, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:21 IST" name="facebookLink" finished-at="2024-05-30T15:20:23 IST" duration-ms="1677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookLink -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:23 IST" name="beforeMethod" finished-at="2024-05-30T15:20:24 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="instagramLink()[pri:32, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:24 IST" name="instagramLink" finished-at="2024-05-30T15:20:26 IST" duration-ms="1754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagramLink -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:26 IST" name="beforeMethod" finished-at="2024-05-30T15:20:27 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="youtubeLink()[pri:33, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:27 IST" name="youtubeLink" finished-at="2024-05-30T15:20:29 IST" duration-ms="1803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtubeLink -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:29 IST" name="beforeMethod" finished-at="2024-05-30T15:20:30 IST" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ticktokLink()[pri:34, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:30 IST" name="ticktokLink" finished-at="2024-05-30T15:20:31 IST" duration-ms="1817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticktokLink -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:31 IST" name="beforeMethod" finished-at="2024-05-30T15:20:33 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="twiterLink()[pri:35, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:33 IST" name="twiterLink" finished-at="2024-05-30T15:20:34 IST" duration-ms="1885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twiterLink -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.ecommerce.dawnTheme.homepageTest@1e6a3214]" started-at="2024-05-30T15:20:34 IST" name="afterClass" finished-at="2024-05-30T15:20:39 IST" duration-ms="5007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ecommerce.dawnTheme.homepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
